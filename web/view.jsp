@@ -6,9 +6,9 @@
     <title>Mega-chat: Message</title>
 </head>
 <frameset rows="*,60">
-
-    <frame name="message" src="/Laba8/compose_message.jsp">
     <frame name="messages" src="/Laba8/messages.do">
+    <frame name="message" src="/Laba8/compose_message.jsp">
+
     <noframes>
         <body>
         <p>Для работы этого чата необходима поддержка фреймов в Вашем браузере.</p>
